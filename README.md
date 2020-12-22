@@ -1,1 +1,1 @@
-# RightToKnowRequests
+A collection of Right To Know (RTK) requests, responses and other correspondence preserved for public view.   A complete version controlled repository is on GitHub.  Inclusion of individual RTK requests does not necessarily constitute endorsement of or  membership in CDSD Parents.  If you have a RTK request to share - please email it info@cdsdparents.org
